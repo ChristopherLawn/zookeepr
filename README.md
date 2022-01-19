@@ -17,10 +17,13 @@ A Heroku-hosted JavaScript platform that enables professional zoos to maintain a
 [Zookeepr](https://zookeepr-lawn-version.herokuapp.com/)
 
 ## **Usage**
-1. To view the current inventory of animals, click the `View Animals` button
-2. To view the current staff, click the `View Zookeepers` button
-3. Use the `Enter an Animal` form to add to the animal inventory
-4. Use the `Enter a Zookeeper` form to add the information of a new staff member
+1. On the homepage:
+    * Use the `Enter an Animal` form to add to the animal inventory
+    * Use the `Enter a Zookeeper` form to add the information of a new staff member
+2. To view the current inventory of animals, click the `View Animals` button
+    * Filter your animal search using diet-type & personality traits!
+3. To view the current staff, click the `View Zookeepers` button
+    * Filter your staff search using name & age! 
 
 ## **Questions**
 Please contact me directly with any additional questions:
